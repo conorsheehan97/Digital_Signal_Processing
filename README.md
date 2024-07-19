@@ -12,9 +12,6 @@ Welcome to the Digital Signal Processing repository! This repository contains ex
   - [High-Pass Filter](#high-pass-filter)
   - [Band-Pass Filter](#band-pass-filter)
   - [Band-Stop Filter](#band-stop-filter)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -26,8 +23,3 @@ Digital Signal Processing (DSP) is a field of study that focuses on the analysis
 - NumPy
 - SciPy
 - Matplotlib
-
-You can install the necessary dependencies using `pip`:
-
-```bash
-pip install numpy scipy matplotlib
